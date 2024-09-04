@@ -1,2 +1,16 @@
 # PLATE_DETECTION_OPENCV
-A Python project for real-time number plate detection using OpenCV. The application utilizes Haar Cascade Classifier to detect and highlight number plates from webcam feed, allowing users to save detected plates as images. Ideal for learning OpenCV and computer vision applications.
+
+This project implements a real-time number plate detection system using OpenCV in Python. It captures video from the webcam, detects number plates using a Haar Cascade Classifier, and allows users to save detected plates as images.
+
+## Features
+- Real-time number plate detection from webcam feed
+- Highlights detected number plates
+- Option to save detected plates as images
+
+## Requirements
+- Python 3.x
+- OpenCV
+- NumPy
+
+## Installation
+1. Clone the repository:
